@@ -5,8 +5,8 @@ This repo is a restful api to information system and execute command
 ## Routes
 ```
 POST http://url/execute
-GET  http://url/url/info
-GET  http://url/url/ping
+GET  http://url/info
+GET  http://url/ping
 ```
 
 ## Route : Execute
