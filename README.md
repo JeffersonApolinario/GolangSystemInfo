@@ -89,5 +89,5 @@ response:
 ## Dependecies
 * [Glide](https://github.com/Masterminds/glide)
 * [Echo](https://github.com/labstack/echo)
-* [gopsitul](https://github.com/shirou/gopsutil)
+* [gopsutil](https://github.com/shirou/gopsutil)
 
