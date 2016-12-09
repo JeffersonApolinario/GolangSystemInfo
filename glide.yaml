@@ -1,0 +1,9 @@
+package: app
+import:
+- package: github.com/labstack/echo
+- package: github.com/shirou/gopsutil
+  subpackages:
+  - disk
+  - host
+  - mem
+  - load
