@@ -3,13 +3,13 @@ This repo is a restful api to information system and execute command
 
 
 ## Routes
-```
+```http
 POST http://url/execute
 GET  http://url/info
 GET  http://url/ping
 ```
 
-## Route : Execute
+### Route: Execute
 
 This route receive json parameters example 
 
@@ -21,14 +21,14 @@ This route receive json parameters example
 ```
 response: 
 
-```
+```json
 {
   "stdout": "bin\ngo.bash\nsrc\n",
   "stderr": ""
 }
 ```
 
-## Route : Info
+### Route: Info
 
 response:
 ```json
