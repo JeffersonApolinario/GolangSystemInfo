@@ -13,7 +13,7 @@ GET  http://url/ping
 
 This route receive json parameters example 
 
-```
+```json
 {
   "command" : "ls"
 }
@@ -31,7 +31,7 @@ response:
 ## Route : Info
 
 response:
-```
+```json
 {
   "os": {
     "arch": "amd64",
