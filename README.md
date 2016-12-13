@@ -85,9 +85,10 @@ response:
   ]
 }
 ```
-
+## Package Manager
+ * [Glide](https://github.com/Masterminds/glide)
+ 
 ## Dependecies
-* [Glide](https://github.com/Masterminds/glide)
 * [Echo](https://github.com/labstack/echo)
-* [gopsutil](https://github.com/shirou/gopsutil)
+* [Gopsutil](https://github.com/shirou/gopsutil)
 
